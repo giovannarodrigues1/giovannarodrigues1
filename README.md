@@ -19,8 +19,8 @@ Estou sempre buscando aprimorar meus conhecimentos na área de tecnologia afim d
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/pt_br/) 
   [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) 
-   ![Power BI](https://img.shields.io/badge/Power%20Platform-%23FFB903?style=for-the-badge&logo=powerbi&logoColor=%23212121)
-    ![Power Apps](https://img.shields.io/badge/Power%20Apps-%23742774?style=for-the-badge&logo=powerapps&logoColor=white)
-     ![Photoshop](https://img.shields.io/badge/Photoshop-%23001E36?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)
+   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+    ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+     ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
 
 
