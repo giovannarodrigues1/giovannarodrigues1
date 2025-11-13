@@ -3,9 +3,8 @@ Meu nome é Giovanna Rodrigues, tenho 19 anos, sou Técnica em Desenvolvimento W
 Estou sempre buscando aprimorar meus conhecimentos na área de tecnologia afim de me desenvolver constantemente.
 
 
-### Social Media 
+### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/grodrigues2022)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gihrodrigues146@gmail.com)
 
 ### Linguagens 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
