@@ -2,10 +2,6 @@
 Meu nome é Giovanna Rodrigues, tenho 19 anos, sou Técnica em Desenvolvimento Web pela ETEC e atualmente estou cursando Sistemas para Internet no Centro Universitário Senac.
 Estou sempre buscando aprimorar meus conhecimentos na área de tecnologia afim de me desenvolver constantemente.
 
-
-### LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/grodrigues2022)
-
 ### Linguagens 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23F7DF1E)
